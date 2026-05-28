@@ -8,7 +8,7 @@
   "server": {
     "ip": HorizonMC-1.aternos.me:56489",
     "port": 56489,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
