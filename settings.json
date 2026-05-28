@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": HorizonMC-1.aternos.me:56489",
+    "port": 56489,
     "version": "",
     "try-creative": false
   },
